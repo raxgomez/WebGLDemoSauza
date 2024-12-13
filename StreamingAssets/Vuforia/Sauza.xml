@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fuente" size="10.000000 13.333333" />
+    <ImageTarget name="hornitos_reposado_target" size="10.000000 6.645422" />
+    <ImageTarget name="hornitos_plata_target" size="10.000000 5.977500" />
+    <ImageTarget name="hornitos_cristalino_target" size="10.000000 6.000000" />
+    <ImageTarget name="hornitos_black_barrel_target" size="10.000000 6.000000" />
+    <ImageTarget name="cristalino_target" size="10.000000 5.631250" />
+  </Tracking>
+</QCARConfig>
